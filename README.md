@@ -1,47 +1,20 @@
-# My Awesome Project
+# Astronomy Domine
 
-Welcome to my awesome project! 🚀
+Lime and limpid green, a second scene
+A fight between the blue you once knew
+Floating down, the sound resounds
+Around the icy waters underground
 
-## Overview
+Jupiter and Saturn, Oberon, Miranda
+And Titania, Neptune, Titan
+Stars can frighten
 
-Brief description of your project and what it does.
+Blinding signs flap
+Flicker, flicker, flicker, blam, pow, pow
 
-## Features
+Stairway scare, Dan Dare, who's there?
+Lime and limpid green, the sounds around
+The icy waters underground
 
-- 🌟 Feature 1
-- 🚀 Feature 2
-- ⚙️ Feature 3
-
-## Getting Started
-
-### Prerequisites
-
-- List any prerequisites or dependencies here.
-
-### Installation
-
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
-2. Navigate to the project folder: `cd your-repository`
-3. Install dependencies: `npm install`
-
-### Usage
-
-Explain how to use your project. Provide examples if necessary.
-
-## Contributing
-
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- Credits or shoutouts to individuals or projects that inspired or helped your project.
-
-## Project Statistics
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-![GitHub Stars](https://img.shields.io/github/stars/your-username/your-repository)
-![GitHub License](https://img.shields.io/github/license/your-username/your-repository)
+Lime and limpid green, the sounds around
+The icy waters underground
